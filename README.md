@@ -1,0 +1,2 @@
+# RevolutionSliderTemplate
+Revolution Slider Template
